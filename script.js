@@ -8,7 +8,7 @@ const arrayDiv= [
 {name:4, color:"#6F98A8"},
 {name:5, color:"#2F454E"},
 {name:6, color:"#72C3DC"},
-{name:7, color:"#2B8EAD"},
+{name:7, color:"#2B8EAD"},sadddsadasdasdasadasasadssa
 {name:8, color:"#6F98A8"},
 {name:9, color:"#2F454E"},
 ];
